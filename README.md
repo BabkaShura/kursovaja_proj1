@@ -65,7 +65,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/Babka_Shura/your-repo.git
+   git clone https://github.com/Babka_Shura/kursovaja_proj1.git
    cd your-repo
    ```
 
